@@ -1,0 +1,8 @@
+pydantic==1.10.2
+psycopg==3.1.4
+psycopg_pool==3.1.4
+requests==2.25.1
+pandas==1.5.3
+fastapi==0.88.0
+numpy==1.24.2
+nba_api==1.1.14
